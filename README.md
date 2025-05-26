@@ -2,4 +2,7 @@
 Alejandro Fernandez Parra 1º Daw
 
 
-![alt text](image.png)
+![alt text][def]
+
+
+[def]: image.png
